@@ -8,5 +8,6 @@ metadata:
 stringData:
   type: git
   url: https://git-codecommit.ap-south-1.amazonaws.com/v1/repos/k8s
-  password: UfrKseK6DlG6jN1YaJX8IFnRx7NNFktYGjxeAJF7DvY=
-  username: krishna+1-at-364787972780
+  username: <UserName>
+  password: <Password>
+  
